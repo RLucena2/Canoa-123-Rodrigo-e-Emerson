@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 
 public class PassagemController {
-   /*
+   
     public boolean cadastrarPassagem (float valor, Rotas rota, Passageiros passageiro ) throws ExceptionDAO{
         if ((rota !=null) && (passageiro != null) && (valor !=0 && valor > 0)){
                  Passagens passagem = new Passagens(rota, passageiro);
@@ -22,5 +22,5 @@ public class PassagemController {
         }           
     
 }
-*/
+
 }
